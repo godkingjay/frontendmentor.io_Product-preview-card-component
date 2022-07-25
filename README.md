@@ -38,7 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL:
-  ----->[SOLUTION](https://github.com/godkingjay/frontendmentor.io_Product-preview-card-component)
+  ----->[SOLUTION](https://www.frontendmentor.io/solutions/product-preview-card-componentresponsive-by-jarrian-dgBygA8fcm)
 - Live Site URL:
   ----->[LIVE SITE](https://godkingjay.github.io/frontendmentor.io_Product-preview-card-component/)
 
