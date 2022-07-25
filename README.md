@@ -37,8 +37,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://godkingjay.github.io/frontendmentor.io_Product-preview-card-component/))
+- Solution URL:
+  ----->[SOLUTION](https://github.com/godkingjay/frontendmentor.io_Product-preview-card-component)
+- Live Site URL:
+  ----->[LIVE SITE](https://godkingjay.github.io/frontendmentor.io_Product-preview-card-component/)
 
 ## My process
 
