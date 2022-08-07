@@ -44,8 +44,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-### Continued development
 
 ### Useful resources
 
