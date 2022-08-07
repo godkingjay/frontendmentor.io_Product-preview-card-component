@@ -45,7 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 
 
-### Useful resources
 
 ## Author
 
