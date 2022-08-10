@@ -41,7 +41,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-### What I learned
 
 ### Continued development
 
