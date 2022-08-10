@@ -57,4 +57,3 @@ Users should be able to:
 - Frontend Mentor - [@godkingjay](https://www.frontendmentor.io/profile/godkingjay)
 - Twitter - [@godking_jay](https://www.twitter.com/godking_jay)
 
-## Acknowledgments
