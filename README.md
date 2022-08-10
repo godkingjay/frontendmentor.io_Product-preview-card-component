@@ -42,9 +42,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-### Continued development
-
-
 ## Author
 
 - Frontend Mentor - [@godkingjay](https://www.frontendmentor.io/profile/godkingjay)
